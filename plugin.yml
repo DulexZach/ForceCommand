@@ -1,0 +1,12 @@
+name: ForceCommand
+main: me.dulexzach.forcecommand.forcecommand
+version: 0.1
+description: >
+             Forces command when the player first joins.
+commands:
+  forcecommand:
+    description: See the version of ForceCommand that you are using.
+  fcommand:
+    description: Unfreezes you and and makes the config command run (/Rules by default)
+  fcreload:
+    description: Reloads ForceCommand.
